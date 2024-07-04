@@ -156,4 +156,3 @@
     #update-poster-layout(spacing: box-spacing)
     #doc
 ]
-
